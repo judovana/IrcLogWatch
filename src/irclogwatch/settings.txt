@@ -1,0 +1,10 @@
+name=BB_watch
+owener=your_nicks
+server1=name_or_address_of_server_you_wont_to_watch_nicks_on:6667
+chanel1=#channel1
+chanel2=#channel2
+chanel3=#..cahnnelN
+watch1=defaultWatched1
+watch2=defaultWatched1
+watch3=...defaultWatchedN
+
